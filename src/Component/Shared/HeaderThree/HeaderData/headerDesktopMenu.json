@@ -1,0 +1,693 @@
+[
+  {
+    "id": 0,
+    "title": "HOME",
+    "url": "#",
+    "megaMenu": false,
+    "submenu": [
+      {
+        "id": 0,
+        "title": "Home One",
+        "url": "/"
+      },
+      {
+        "id": 1,
+        "title": "Home Two",
+        "url": "/home-two"
+      },
+      {
+        "id": 2,
+        "title": "Home Three",
+        "url": "/home-three"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "BLOG",
+    "url": "/blog",
+    "megaMenu": false,
+    "submenu": [
+      {
+        "id": 0,
+        "title": "Blog",
+        "url": "/blog"
+      },
+      {
+        "id": 1,
+        "title": "Blog Post Left Sidebar",
+        "url": "/blog-post-left-sidebar"
+      },
+      {
+        "id": 2,
+        "title": "Blog Post Right Sidebar",
+        "url": "/blog-post-right-sidebar"
+      },
+      {
+        "id": 3,
+        "title": "Blog Post No Sidebar",
+        "url": "/blog-post-no-sidebar"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "SHOP",
+    "url": "/shop",
+    "megaMenu": [
+      {
+        "heading": "SHOP LAYOUT",
+        "nav": [
+          {
+            "id": 0,
+            "title": "Shop Left Sidebar",
+            "url": "/shop"
+          },
+          {
+            "id": 1,
+            "title": "Shop Right Sidebar",
+            "url": "/shop-right-sidebar"
+          },
+          {
+            "id": 2,
+            "title": "Shop Banner Left Sidebar",
+            "url": "/shop-banner-left-sidebar"
+          },
+          {
+            "id": 3,
+            "title": "Shop Banner Right Sidebar",
+            "url": "/shop-banner-right-sidebar"
+          },
+          {
+            "id": 4,
+            "title": "Shop Product Style 2",
+            "url": "/shop-product-style-2"
+          },
+          {
+            "id": 5,
+            "title": "Shop Infinite Scroll",
+            "url": "/shop-infinite-scroll"
+          },
+          {
+            "id": 6,
+            "title": "Shop Left Sidebar",
+            "url": "/shop"
+          },
+          {
+            "id": 7,
+            "title": "Shop Right Sidebar",
+            "url": "/shop-right-sidebar"
+          }
+        ]
+      },
+      {
+        "heading": "SHOP DETAILS",
+        "nav": [
+          {
+            "id": 0,
+            "title": "Shop Details",
+            "url": "/shop-details"
+          },
+          {
+            "id": 1,
+            "title": "Shop Details Countdown",
+            "url": "/shop-details-countdown"
+          },
+          {
+            "id": 2,
+            "title": "Shop Details Ask Question",
+            "url": "/shop-details-ask-question"
+          },
+          {
+            "id": 3,
+            "title": "Shop Details Size Guide",
+            "url": "/shop-details-size-guide"
+          },
+          {
+            "id": 4,
+            "title": "Shop Details Color Compare",
+            "url": "/shop-details-color-compare"
+          },
+          {
+            "id": 5,
+            "title": "Shop Details Product Image Slider",
+            "url": "/shop-details-product-image-slider",
+            "sale": true
+          },
+          {
+            "id": 6,
+            "title": "Shop Details Sidebar",
+            "url": "/shop-details-sidebar"
+          }
+        ]
+      },
+      {
+        "heading": "VENDOR PAGE",
+        "nav": [
+          {
+            "id": 0,
+            "title": "Seller Dashboard",
+            "url": "/dashboard/seller"
+          },
+          {
+            "id": 1,
+            "title": "Vendor List",
+            "url": "/vendor-list"
+          },
+          {
+            "id": 2,
+            "title": "Vendor Shop Left Sidebar",
+            "url": "/vendor-shop-left-Sidebar",
+            "hot_sale": true
+          },
+          {
+            "id": 3,
+            "title": "Vendor Shop Right Sidebar",
+            "url": "/vendor-shop-right-Sidebar"
+          },
+          {
+            "id": 4,
+            "title": "Vendor Banner Left Sidebar",
+            "url": "/vendor-shop-banner-1"
+          },
+          {
+            "id": 5,
+            "title": "Vendor Banner Right Sidebar",
+            "url": "/vendor-shop-banner-2",
+            "hot_sale": true
+          },
+          {
+            "id": 6,
+            "title": "Seller Dashboard",
+            "url": "/dashboard/seller"
+          },
+          {
+            "id": 7,
+            "title": "Vendor List",
+            "url": "/vendor-list"
+          }
+        ]
+      },
+      {
+        "heading": "SHOP DETAILS",
+        "nav": [
+          {
+            "id": 0,
+            "title": "Shop Details",
+            "url": "/shop-details"
+          },
+          {
+            "id": 1,
+            "title": "Shop Details Countdown",
+            "url": "/shop-details-countdown"
+          },
+          {
+            "id": 2,
+            "title": "Shop Details Ask Question",
+            "url": "/shop-details-ask-question"
+          },
+          {
+            "id": 3,
+            "title": "Shop Details Size Guide",
+            "url": "/shop-details-size-guide"
+          },
+          {
+            "id": 4,
+            "title": "Shop Details Color Compare",
+            "url": "/shop-details-color-compare"
+          },
+          {
+            "id": 5,
+            "title": "Shop Details Product Image Slider",
+            "url": "/shop-details-product-image-slider",
+            "sale": true
+          },
+          {
+            "id": 6,
+            "title": "Shop Details Sidebar",
+            "url": "/shop-details-sidebar"
+          }
+        ]
+      },
+      {
+        "heading": "VENDOR PAGE",
+        "nav": [
+          {
+            "id": 0,
+            "title": "Seller Dashboard",
+            "url": "/dashboard/seller"
+          },
+          {
+            "id": 1,
+            "title": "Vendor List",
+            "url": "/vendor-list"
+          },
+          {
+            "id": 2,
+            "title": "Vendor Shop Left Sidebar",
+            "url": "/vendor-shop-left-Sidebar",
+            "hot_sale": true
+          },
+          {
+            "id": 3,
+            "title": "Vendor Shop Right Sidebar",
+            "url": "/vendor-shop-right-Sidebar"
+          },
+          {
+            "id": 4,
+            "title": "Vendor Banner Left Sidebar",
+            "url": "/vendor-shop-banner-1"
+          },
+          {
+            "id": 5,
+            "title": "Vendor Banner Right Sidebar",
+            "url": "/vendor-shop-banner-2",
+            "hot_sale": true
+          },
+          {
+            "id": 6,
+            "title": "Seller Dashboard",
+            "url": "/dashboard/seller"
+          },
+          {
+            "id": 7,
+            "title": "Vendor List",
+            "url": "/vendor-list"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "PAGES",
+    "url": "#",
+    "megaMenu": [
+      {
+        "heading": "SHOP LAYOUT",
+        "nav": [
+          {
+            "id": 0,
+            "title": "Shop Left Sidebar",
+            "url": "/shop"
+          },
+          {
+            "id": 1,
+            "title": "Shop Right Sidebar",
+            "url": "/shop-right-sidebar"
+          },
+          {
+            "id": 2,
+            "title": "Shop Banner Left Sidebar",
+            "url": "/shop-banner-left-sidebar"
+          },
+          {
+            "id": 3,
+            "title": "Shop Banner Right Sidebar",
+            "url": "/shop-banner-right-sidebar"
+          },
+          {
+            "id": 4,
+            "title": "Shop Product Style 2",
+            "url": "/shop-product-style-2"
+          },
+          {
+            "id": 5,
+            "title": "Shop Infinite Scroll",
+            "url": "/shop-infinite-scroll"
+          },
+          {
+            "id": 6,
+            "title": "Shop Left Sidebar",
+            "url": "/shop"
+          },
+          {
+            "id": 7,
+            "title": "Shop Right Sidebar",
+            "url": "/shop-right-sidebar"
+          }
+        ]
+      },
+      {
+        "heading": "BLOG PAGES",
+        "nav": [
+          {
+            "id": 0,
+            "title": "Blog",
+            "url": "/blog"
+          },
+          {
+            "id": 1,
+            "title": "Blog Post Left Sidebar",
+            "url": "/blog-post-left-sidebar"
+          },
+          {
+            "id": 2,
+            "title": "Blog Post Right Sidebar",
+            "url": "/blog-post-right-sidebar"
+          },
+          {
+            "id": 3,
+            "title": "Blog Post No Sidebar",
+            "url": "/blog-post-no-sidebar"
+          },
+          {
+            "id": 0,
+            "title": "Blog",
+            "url": "/blog"
+          },
+          {
+            "id": 1,
+            "title": "Blog Post Left Sidebar",
+            "url": "/blog-post-left-sidebar"
+          },
+          {
+            "id": 2,
+            "title": "Blog Post Right Sidebar",
+            "url": "/blog-post-right-sidebar"
+          },
+          {
+            "id": 3,
+            "title": "Blog Post No Sidebar",
+            "url": "/blog-post-no-sidebar"
+          }
+        ]
+      },
+      {
+        "heading": "VENDOR PAGE",
+        "nav": [
+          {
+            "id": 0,
+            "title": "Seller Dashboard",
+            "url": "/dashboard/seller"
+          },
+          {
+            "id": 1,
+            "title": "Vendor List",
+            "url": "/vendor-list"
+          },
+          {
+            "id": 2,
+            "title": "Vendor Shop Left Sidebar",
+            "url": "/vendor-shop-left-Sidebar",
+            "hot_sale": true
+          },
+          {
+            "id": 3,
+            "title": "Vendor Shop Right Sidebar",
+            "url": "/vendor-shop-right-Sidebar"
+          },
+          {
+            "id": 4,
+            "title": "Vendor Banner Left Sidebar",
+            "url": "/vendor-shop-banner-1"
+          },
+          {
+            "id": 5,
+            "title": "Vendor Banner Right Sidebar",
+            "url": "/vendor-shop-banner-2",
+            "hot_sale": true
+          },
+          {
+            "id": 6,
+            "title": "Seller Dashboard",
+            "url": "/dashboard/seller"
+          },
+          {
+            "id": 7,
+            "title": "Vendor List",
+            "url": "/vendor-list"
+          }
+        ]
+      },
+      {
+        "heading": "OTHERS PAGES",
+        "nav": [
+          {
+            "id": 0,
+            "title": "FAQs Page",
+            "url": "/faqs"
+          },
+          {
+            "id": 0,
+            "title": "Wishlist Page",
+            "url": "/wishlist"
+          },
+          {
+            "id": 0,
+            "title": "Cart Page",
+            "url": "/cart"
+          },
+          {
+            "id": 0,
+            "title": "Order Tracking",
+            "url": "/order-tracking"
+          },
+          {
+            "id": 0,
+            "title": "Checkout Page",
+            "url": "/checkout"
+          },
+          {
+            "id": 0,
+            "title": "User Dashboard",
+            "url": "/dashboard/user"
+          },
+          {
+            "id": 0,
+            "title": "About Us",
+            "url": "/about"
+          },
+          {
+            "id": 0,
+            "title": "Forgot Password",
+            "url": "/forgot-password"
+          },
+          {
+            "id": 0,
+            "title": "Login Register",
+            "url": "/login-register"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "ELEMENTS",
+    "url": "#",
+    "megaMenu": [
+      {
+        "heading": "CIYA ELEMENTS 01",
+        "nav": [
+          {
+            "id": 0,
+            "title": "Sticky Gallery No Sidebar",
+            "url": "#"
+          },
+          {
+            "id": 1,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 2,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 3,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 4,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 5,
+            "title": "Sticky Gallery No Sidebar",
+            "url": "#"
+          },
+          {
+            "id": 6,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 7,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 8,
+            "title": "Product List",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "heading": "CIYA ELEMENTS 02",
+        "nav": [
+          {
+            "id": 0,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 1,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 2,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 3,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 4,
+            "title": "Sticky Gallery No Sidebar",
+            "url": "#"
+          },
+          {
+            "id": 5,
+            "title": "Product List",
+            "url": "#",
+            "sale": true
+          },
+          {
+            "id": 6,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 7,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 8,
+            "title": "Sticky Gallery No Sidebar",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "heading": "CIYA ELEMENTS 03",
+        "nav": [
+          {
+            "id": 0,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 1,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 2,
+            "title": "Product List",
+            "url": "#",
+            "hot_sale": true
+          },
+          {
+            "id": 3,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 4,
+            "title": "Sticky Gallery No Sidebar",
+            "url": "#"
+          },
+          {
+            "id": 5,
+            "title": "Product List",
+            "url": "#",
+            "sale": true
+          },
+          {
+            "id": 6,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 7,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 8,
+            "title": "Sticky Gallery No Sidebar",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "heading": "CIYA ELEMENTS 04",
+        "nav": [
+          {
+            "id": 0,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 1,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 2,
+            "title": "Product List",
+            "url": "#",
+            "hot_sale": true
+          },
+          {
+            "id": 3,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 4,
+            "title": "Sticky Gallery No Sidebar",
+            "url": "#"
+          },
+          {
+            "id": 5,
+            "title": "Product List",
+            "url": "#",
+            "sale": true
+          },
+          {
+            "id": 6,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 7,
+            "title": "Product List",
+            "url": "#"
+          },
+          {
+            "id": 8,
+            "title": "Sticky Gallery No Sidebar",
+            "url": "#"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "CONTACT US",
+    "url": "/contact",
+    "megaMenu": false
+  }
+]

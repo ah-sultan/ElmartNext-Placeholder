@@ -1,0 +1,35 @@
+[
+    {
+      "discount": 50,
+      "discountColor": "#3577F0",
+      "title": "Winter Collection",
+      "subtitle": "woman sweater",
+      "buttonText": "Shop Now",
+      "buttonLink": "/shop",
+      "image": "/image/home-two/categories-section/woman-sweater.png",
+      "imageAlt": "Woman Sweater",
+      "backgroundImageClass": "cat-promo-bg-1"
+    },
+    {
+      "discount": 45,
+      "discountColor": "#FF497C",
+      "title": "T-shirts Collection",
+      "subtitle": "Man T-shirt polo",
+      "buttonText": "Shop Now",
+      "buttonLink": "/shop",
+      "image": "/image/home-two/categories-section/man-t-shirt-polo.png",
+      "imageAlt": "Woman Sweater",
+      "backgroundImageClass": "cat-promo-bg-2"
+    },
+    {
+      "discount": 60,
+      "discountColor": "#3577F0",
+      "title": "Shoe Collection",
+      "subtitle": "Fashion shoes",
+      "buttonText": "Shop Now",
+      "buttonLink": "/shop",
+      "image": "/image/home-two/categories-section/fashion-shoes.png",
+      "imageAlt": "Woman Sweater",
+      "backgroundImageClass": "cat-promo-bg-3"
+    }
+  ]

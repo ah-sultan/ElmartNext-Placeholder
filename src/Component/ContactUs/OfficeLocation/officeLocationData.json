@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Australia Office",
+      "image": "/image/contact-page/loc-1.png",
+      "email": "contact.location@website.com",
+      "website": "etoshi_info.com",
+      "phone": "686-324-6838",
+      "locationLink": "#"
+    },
+    {
+      "id": 2,
+      "name": "San Francisco Office",
+      "image": "/image/contact-page/loc-2.png",
+      "email": "contact.location@website.com",
+      "website": "etoshi_info.com",
+      "phone": "686-324-6838",
+      "locationLink": "#"
+    },
+    {
+      "id": 3,
+      "name": "United States Office",
+      "image": "/image/contact-page/loc-3.png",
+      "email": "contact.location@website.com",
+      "website": "etoshi_info.com",
+      "phone": "686-324-6838",
+      "locationLink": "#"
+    }
+  ]
+  

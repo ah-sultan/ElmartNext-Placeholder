@@ -1,0 +1,83 @@
+[
+    {
+      "id": 0,
+      "title": "Man Shirts",
+      "quantity": "38 Available",
+      "image": "/image/home-one/categories-section/man-shirt.png",
+      "imageAlt": "Man Shirts",
+      "url": "#"
+    },
+    {
+      "id": 1,
+      "title": "Woman Dress",
+      "quantity": "44 Available",
+      "image": "/image/home-one/categories-section/woman-dress.png",
+      "imageAlt": "Woman Dress",
+      "url": "#"
+    },
+    {
+      "id": 2,
+      "title": "man shoe",
+      "quantity": "12 Available",
+      "image": "/image/home-one/categories-section/man-shoe.png",
+      "imageAlt": "Man Shoe",
+      "url": "#"
+    },
+    {
+      "id": 3,
+      "title": "Woman Bag",
+      "quantity": "21 Available",
+      "image": "/image/home-one/categories-section/woman-bag.png",
+      "imageAlt": "Woman Bag",
+      "url": "#"
+    },
+    {
+      "id": 4,
+      "title": "Breasted Suit",
+      "quantity": "23 Available",
+      "image": "/image/home-one/categories-section/breasted-suit.png",
+      "imageAlt": "Breasted Suit",
+      "url": "#"
+    },
+    {
+      "id": 5,
+      "title": "Man Shirts",
+      "quantity": "38 Available",
+      "image": "/image/home-one/categories-section/man-shirt.png",
+      "imageAlt": "Man Shirts",
+      "url": "#"
+    },
+    {
+      "id": 6,
+      "title": "Woman Dress",
+      "quantity": "44 Available",
+      "image": "/image/home-one/categories-section/woman-dress.png",
+      "imageAlt": "Woman Dress",
+      "url": "#"
+    },
+    {
+      "id": 7,
+      "title": "man shoe",
+      "quantity": "12 Available",
+      "image": "/image/home-one/categories-section/man-shoe.png",
+      "imageAlt": "Man Shoe",
+      "url": "#"
+    },
+    {
+      "id": 8,
+      "title": "Woman Bag",
+      "quantity": "21 Available",
+      "image": "/image/home-one/categories-section/woman-bag.png",
+      "imageAlt": "Woman Bag",
+      "url": "#"
+    },
+    {
+      "id": 9,
+      "title": "Breasted Suit",
+      "quantity": "23 Available",
+      "image": "/image/home-one/categories-section/breasted-suit.png",
+      "imageAlt": "Breasted Suit",
+      "url": "#"
+    }
+  ]
+  

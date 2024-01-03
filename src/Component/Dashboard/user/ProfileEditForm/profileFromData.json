@@ -1,0 +1,184 @@
+{
+    "countries": [
+        {
+            "title": "United Kingdom",
+            "id": "0",
+            "cities": [
+                {
+                    "id": 0,
+                    "title": "London"
+                },
+                {
+                    "id": 1,
+                    "title": "Manchester"
+                },
+                {
+                    "id": 2,
+                    "title": "Edinburgh"
+                },
+                {
+                    "id": 3,
+                    "title": "Birmingham"
+                },
+                {
+                    "id": 4,
+                    "title": "Liverpool"
+                },
+                {
+                    "id": 5,
+                    "title": "Glasgow"
+                }
+            ]
+        },
+        {
+            "title": "Spain",
+            "id": "1",
+            "cities": [
+                {
+                    "id": 0,
+                    "title": "Madrid"
+                },
+                {
+                    "id": 1,
+                    "title": "Barcelona"
+                },
+                {
+                    "id": 2,
+                    "title": "Valencia"
+                },
+                {
+                    "id": 3,
+                    "title": "Seville"
+                },
+                {
+                    "id": 4,
+                    "title": "Zaragoza"
+                },
+                {
+                    "id": 5,
+                    "title": "Málaga"
+                }
+            ]
+        },
+        {
+            "title": "Portugal",
+            "id": "2",
+            "cities": [
+                {
+                    "id": 0,
+                    "title": "Lisbon"
+                },
+                {
+                    "id": 1,
+                    "title": "Porto"
+                },
+                {
+                    "id": 2,
+                    "title": "Coimbra"
+                },
+                {
+                    "id": 3,
+                    "title": "Faro"
+                },
+                {
+                    "id": 4,
+                    "title": "Aveiro"
+                },
+                {
+                    "id": 5,
+                    "title": "Braga"
+                }
+            ]
+        },
+        {
+            "title": "Russia",
+            "id": "3",
+            "cities": [
+                {
+                    "id": 0,
+                    "title": "Moscow"
+                },
+                {
+                    "id": 1,
+                    "title": "Saint Petersburg"
+                },
+                {
+                    "id": 2,
+                    "title": "Novosibirsk"
+                },
+                {
+                    "id": 3,
+                    "title": "Yekaterinburg"
+                },
+                {
+                    "id": 4,
+                    "title": "Nizhny Novgorod"
+                },
+                {
+                    "id": 5,
+                    "title": "Kazan"
+                }
+            ]
+        },
+        {
+            "title": "Bangladesh",
+            "id": "4",
+            "cities": [
+                {
+                    "id": 0,
+                    "title": "Dhaka"
+                },
+                {
+                    "id": 1,
+                    "title": "Chittagong"
+                },
+                {
+                    "id": 2,
+                    "title": "Khulna"
+                },
+                {
+                    "id": 3,
+                    "title": "Rajshahi"
+                },
+                {
+                    "id": 4,
+                    "title": "Sylhet"
+                },
+                {
+                    "id": 5,
+                    "title": "Barisal"
+                }
+            ]
+        },
+        {
+            "title": "India",
+            "id": "5",
+            "cities": [
+                {
+                    "id": 0,
+                    "title": "Mumbai"
+                },
+                {
+                    "id": 1,
+                    "title": "Delhi"
+                },
+                {
+                    "id": 2,
+                    "title": "Bangalore"
+                },
+                {
+                    "id": 3,
+                    "title": "Kolkata"
+                },
+                {
+                    "id": 4,
+                    "title": "Chennai"
+                },
+                {
+                    "id": 5,
+                    "title": "Hyderabad"
+                }
+            ]
+        }
+    ]
+}

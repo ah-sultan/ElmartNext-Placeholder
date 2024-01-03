@@ -1,0 +1,35 @@
+[
+    {
+        "id" : 0,
+        "cardName" : "visa",
+        "cardLogo" : "/image/user-dashboard/visa-Logo.png",
+        "logoAlt" : "Visa Logo",
+        "cardNumber" : "XXXX XXXX XXXX 3456",
+        "cardInfo" : {
+            "holder" : "RONAL M GRIFFIM",
+            "expiration" : "05/36"
+        }
+    },
+    {
+        "id" : 1,
+        "cardName" : "mastercard",
+        "cardLogo" : "/image/user-dashboard/mastercard-logo.png",
+        "logoAlt" : "Visa Logo",
+        "cardNumber" : "XXXX XXXX XXXX 3210",
+        "cardInfo" : {
+            "holder" : "RONAL M GRIFFIM",
+            "expiration" : "03/34"
+        }
+    },
+    {
+        "id" : 2,
+        "cardName" : "amex",
+        "cardLogo" : "/image/user-dashboard/american-express-logo.png",
+        "logoAlt" : "Visa Logo",
+        "cardNumber" : "XXXX XXXX XXXX 12345",
+        "cardInfo" : {
+            "holder" : "RONAL M GRIFFIM",
+            "expiration" : "05/28"
+        }
+    }
+]

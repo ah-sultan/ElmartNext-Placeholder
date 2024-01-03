@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "image": "/image/home-one/features-section/shipping.png",
+        "imageAlt": "Free Shipping",
+        "title": "Free Shipping",
+        "description": " Free shipping on all US order or order above $100 "
+    },
+    {
+        "id": 1,
+        "image": "/image/home-one/features-section/security.png",
+        "imageAlt": "Security Payment",
+        "title": "Security Payment",
+        "description": "  Simply return it within 30 days for an exchange. "
+    },
+    {
+        "id": 2,
+        "image": "/image/home-one/features-section/return.png",
+        "imageAlt": "14-Day Return",
+        "title": "14-Day Return",
+        "description": " Simply return it within 30 days for an exchange. "
+    },
+    {
+        "id": 3,
+        "image": "/image/home-one/features-section/support.png",
+        "imageAlt": "24/7 Support",
+        "title": "24/7 Support",
+        "description": "  Contact us 24 hours a day, 7 day's week  "
+    }
+]

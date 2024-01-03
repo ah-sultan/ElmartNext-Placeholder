@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "clientName": "Ronal M. Griffim",
+        "designation": "Business Manager",
+        "review": "There are many varation of paissages of Lorem ki hoysIpum a majority have sufferied alterations in some form, by our a help randomised  worids whichs don't looks even slightly acchaja as going to use a passage of Lorem Ipsum.",
+        "rating" : 5,
+        "image" : "/image/home-one/testimonial-section/author.png"
+    },
+    {
+        "id": 1,
+        "clientName": "Ronal M. Griffim",
+        "designation": "Business Manager",
+        "review": "There are many varation of paissages of Lorem ki hoysIpum a majority have sufferied alterations in some form, by our a help randomised  worids whichs don't looks even slightly acchaja as going to use a passage of Lorem Ipsum.",
+        "rating" : 5,
+        "image" : "/image/home-one/testimonial-section/author.png"
+    },
+    {
+        "id": 2,
+        "clientName": "Ronal M. Griffim",
+        "designation": "Business Manager",
+        "review": "There are many varation of paissages of Lorem ki hoysIpum a majority have sufferied alterations in some form, by our a help randomised  worids whichs don't looks even slightly acchaja as going to use a passage of Lorem Ipsum.",
+        "rating" : 5,
+        "image" : "/image/home-one/testimonial-section/author.png"
+    }
+]

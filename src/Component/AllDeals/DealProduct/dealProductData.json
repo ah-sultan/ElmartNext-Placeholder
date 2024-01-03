@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "title": "Fashion woman Top",
+        "image": "/image/home-one/feature-product/fashion-woman-top.jpg",
+        "endDate": "30 March 2024 0:00:00 UTC+0",
+        "description": "Hurry Up! Offer ends in",
+        "discount": 25
+    },
+    {
+        "id": 1,
+        "title": "Casual man Dress Shirt",
+        "image": "/image/home-one/feature-product/casual-man-dress.jpg",
+        "endDate": "30 March 2024 0:00:00 UTC+0",
+        "description": "Hurry Up! Offer ends in",
+        "discount": 20
+    },
+    {
+        "id": 2,
+        "title": "Short Sleeves T-shirt",
+        "image": "/image/home-one/feature-product/short-sleeve-tshirt.jpg",
+        "endDate": "30 March 2024 0:00:00 UTC+0",
+        "description": "Hurry Up! Offer ends in",
+        "discount": 30
+    },
+    {
+        "id": 3,
+        "title": "Fashion woman Top",
+        "image": "/image/home-one/feature-product/fashion-woman-top.jpg",
+        "endDate": "30 March 2024 0:00:00 UTC+0",
+        "description": "Hurry Up! Offer ends in",
+        "discount": 25
+    },
+    {
+        "id": 4,
+        "title": "Casual man Dress Shirt",
+        "image": "/image/home-one/feature-product/casual-man-dress.jpg",
+        "endDate": "30 March 2024 0:00:00 UTC+0",
+        "description": "Hurry Up! Offer ends in",
+        "discount": 20
+    },
+    {
+        "id": 5,
+        "title": "Short Sleeves T-shirt",
+        "image": "/image/home-one/feature-product/short-sleeve-tshirt.jpg",
+        "endDate": "30 March 2024 0:00:00 UTC+0",
+        "description": "Hurry Up! Offer ends in",
+        "discount": 30
+    }
+]

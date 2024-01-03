@@ -1,0 +1,35 @@
+[
+    {
+        "id" : 0,
+        "title" : "Filter & Discover",
+        "description" : "Filtering & suggestions make it easy to find",
+        "step" : 1,
+        "image" : "/image/home-two/work-processing/step1.svg",
+        "bgClass" : "w-p-img-bg-1"
+    },
+    {
+        "id" : 1,
+        "title" : "Add to Cart",
+        "description" : "Select the correct items & add them to the cart",
+        "step" : 2,
+        "image" : "/image/home-two/work-processing/step2.svg",
+        "bgClass" : "w-p-img-bg-2"
+        
+    },
+    {
+        "id" : 2,
+        "title" : "Fast shipping",
+        "description" : "The carrier will confirm & ship quickly to you",
+        "step" : 3,
+        "image" : "/image/home-two/work-processing/step3.svg",
+        "bgClass" : "w-p-img-bg-3"
+    },
+    {
+        "id" : 3,
+        "title" : "Enjoy the Product",
+        "description" : "The carrier will confirm & ship quickly to you",
+        "step" : 4,
+        "image" : "/image/home-two/work-processing/step4.svg",
+        "bgClass" : "w-p-img-bg-4"
+    }
+]

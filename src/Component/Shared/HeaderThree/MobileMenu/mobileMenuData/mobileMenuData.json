@@ -1,0 +1,176 @@
+[
+  {
+    "id": 0,
+    "title": "Home",
+    "icon": "fa-solid fa-shirt",
+    "submenu": [
+      {
+        "id": 0,
+        "title": "Home One",
+        "url": "#"
+      },
+      {
+        "id": 1,
+        "title": "Home Two",
+        "url": "/home-two"
+      },
+      {
+        "id": 2,
+        "title": "Home Three",
+        "url": "/home-three"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Blog",
+    "icon": "fa-solid fa-blog",
+    "submenu": [
+      {
+        "id": 0,
+        "title": "Blog",
+        "url": "/blog"
+      },
+      {
+        "id": 1,
+        "title": "Blog Post Left Sidebar",
+        "url": "/blog-post-left-sidebar"
+      },
+      {
+        "id": 2,
+        "title": "Blog Post Right Sidebar",
+        "url": "/blog-post-right-sidebar"
+      },
+      {
+        "id": 3,
+        "title": "Blog Post No Sidebar",
+        "url": "/blog-post-no-sidebar"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Shop",
+    "icon": "fa-solid fa-quote-left",
+    "submenu": [
+      {
+        "id": 0,
+        "title": "Shop Left Sidebar",
+        "url": "/shop"
+      },
+      {
+        "id": 1,
+        "title": "Shop Right Sidebar",
+        "url": "/shop-right-sidebar"
+      },
+      {
+        "id": 2,
+        "title": "Shop Banner Left Sidebar",
+        "url": "/shop-banner-left-sidebar"
+      },
+      {
+        "id": 3,
+        "title": "Shop Banner Right Sidebar",
+        "url": "/shop-banner-right-sidebar"
+      },
+      {
+        "id": 4,
+        "title": "Shop Product Style 2",
+        "url": "/shop-product-style-2"
+      },
+      {
+        "id": 5,
+        "title": "Shop Infinite Scroll",
+        "url": "/shop-infinite-scroll"
+      },
+      {
+        "id": 6,
+        "title": "Shop Left Sidebar",
+        "url": "/shop"
+      },
+      {
+        "id": 7,
+        "title": "Shop Right Sidebar",
+        "url": "/shop-right-sidebar"
+      },
+      {
+        "id": 7,
+        "title": "Shop Right Sidebar",
+        "url": "#",
+        "submenu": [
+          { "id": 0, "title": "Shop Details", "url": "/shop-details" },
+          {
+            "id": 1,
+            "title": "Shop Details Countdown",
+            "url": "/shop-details-countdown"
+          },
+          {
+            "id": 2,
+            "title": "Shop Details Ask Question",
+            "url": "/shop-details-ask-question"
+          },
+          {
+            "id": 3,
+            "title": "Shop Details Size Guide",
+            "url": "/shop-details-size-guide"
+          },
+          {
+            "id": 4,
+            "title": "Shop Details Color Compare",
+            "url": "/shop-details-color-compare"
+          },
+          {
+            "id": 5,
+            "title": "Shop Details Product Image Slider",
+            "url": "/shop-details-product-image-slider",
+            "sale": true
+          },
+          {
+            "id": 6,
+            "title": "Shop Details Sidebar",
+            "url": "/shop-details-sidebar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Vendor",
+    "icon": "fa-solid fa-motorcycle",
+    "submenu": [
+      { "id": 0, "title": "Seller Dashboard", "url": "/dashboard/seller" },
+      { "id": 1, "title": "Vendor List", "url": "/vendor-list" },
+      {
+        "id": 2,
+        "title": "Vendor Shop Left Sidebar",
+        "url": "/vendor-shop-left-Sidebar",
+        "hot_sale": true
+      },
+      {
+        "id": 3,
+        "title": "Vendor Shop Right Sidebar",
+        "url": "/vendor-shop-right-Sidebar"
+      },
+      {
+        "id": 4,
+        "title": "Vendor Banner Left Sidebar",
+        "url": "/vendor-shop-banner-1"
+      },
+      {
+        "id": 5,
+        "title": "Vendor Banner Right Sidebar",
+        "url": "/vendor-shop-banner-2",
+        "hot_sale": true
+      },
+      { "id": 6, "title": "Seller Dashboard", "url": "/dashboard/seller" },
+      { "id": 7, "title": "Vendor List", "url": "/vendor-list" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Contact",
+    "icon": "fa-solid fa-phone",
+    "url": "/contact"
+  }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "id": 0,
+        "title": "luxury T-shirt For men",
+        "image": "/image/home-one/feature-product/luxury-tshirt-man.jpg",
+        "hoverImage": "/image/home-one/feature-product/luxury-tshirt-man-1.jpg",
+        "price": 180,
+        "discountPrice": 40,
+        "discountTag": "50",
+        "newTag": false,
+        "colors": [
+            "#FF497C",
+            "#FEC7B3",
+            "#3B3C3F"
+        ],
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": {
+            "rate": 5,
+            "reviews": 42
+        }
+    },
+    {
+        "id": 1,
+        "title": "model in blue suit and fashionable",
+        "image": "/image/home-one/feature-product/model-blue-suit-fashionable.jpg",
+        "hoverImage": "/image/home-one/feature-product/model-blue-suit-fashionable-1.jpg",
+        "price": 59,
+        "discountPrice": false,
+        "newTag": true,
+        "colors": [
+            "#FF497C",
+            "#FEC7B3",
+            "#3B3C3F"
+        ],
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": {
+            "rate": 5,
+            "reviews": 42
+        }
+    },
+    {
+        "id": 2,
+        "title": "White Sweater For Women",
+        "image": "/image/home-one/feature-product/white-sweater-women.jpg",
+        "hoverImage": "/image/home-one/feature-product/white-sweater-women-1.jpg",
+        "price": 300,
+        "discountPrice": 40,
+        "newTag": false,
+        "colors": [
+            "#FF497C",
+            "#FEC7B3",
+            "#3B3C3F"
+        ],
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": {
+            "rate": 5,
+            "reviews": 42
+        }
+    },
+    {
+        "id": 3,
+        "title": "Silver Silk Shirt + Tie Mans",
+        "image": "/image/home-one/feature-product/silver-silk-shirt-tie-man.png",
+        "hoverImage": "/image/home-one/feature-product/silver-silk-shirt-tie-man-1.png",
+        "price": 130,
+        "discountPrice": false,
+        "newTag": false,
+        "discountTag": "25",
+        "colors": [
+            "#FF497C",
+            "#FEC7B3",
+            "#3B3C3F"
+        ],
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": {
+            "rate": 5,
+            "reviews": 42
+        }
+    },
+    {
+        "id": 0,
+        "title": "luxury T-shirt For men",
+        "image": "/image/home-one/feature-product/luxury-tshirt-man.jpg",
+        "hoverImage": "/image/home-one/feature-product/luxury-tshirt-man-1.jpg",
+        "price": 200,
+        "discountPrice": false,
+        "newTag": false,
+        "colors": [
+            "#FF497C",
+            "#FEC7B3",
+            "#3B3C3F"
+        ],
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": {
+            "rate": 5,
+            "reviews": 42
+        }
+    },
+    {
+        "id": 1,
+        "title": "model in blue suit and fashionable",
+        "image": "/image/home-one/feature-product/model-blue-suit-fashionable.jpg",
+        "hoverImage": "/image/home-one/feature-product/model-blue-suit-fashionable-1.jpg",
+        "price": 145,
+        "discountPrice": false,
+        "newTag": true,
+        "colors": [
+            "#FF497C",
+            "#FEC7B3",
+            "#3B3C3F"
+        ],
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": {
+            "rate": 5,
+            "reviews": 42
+        }
+    },
+    {
+        "id": 2,
+        "title": "White Sweater For Women",
+        "image": "/image/home-one/feature-product/white-sweater-women.jpg",
+        "hoverImage": "/image/home-one/feature-product/white-sweater-women-1.jpg",
+        "price": 190,
+        "discountPrice": 100,
+        "newTag": false,
+        "discountTag": "25",
+        "colors": [
+            "#FF497C",
+            "#FEC7B3",
+            "#3B3C3F"
+        ],
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": {
+            "rate": 5,
+            "reviews": 42
+        }
+    },
+    {
+        "id": 3,
+        "title": "Silver Silk Shirt + Tie Mans",
+        "image": "/image/home-one/feature-product/silver-silk-shirt-tie-man.png",
+        "hoverImage": "/image/home-one/feature-product/silver-silk-shirt-tie-man-1.png",
+        "price": 180,
+        "discountPrice": false,
+        "newTag": false,
+        "colors": [
+            "#FF497C",
+            "#FEC7B3",
+            "#3B3C3F"
+        ],
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": {
+            "rate": 5,
+            "reviews": 42
+        }
+    }
+]

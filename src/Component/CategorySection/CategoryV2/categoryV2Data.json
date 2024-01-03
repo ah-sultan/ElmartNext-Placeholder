@@ -1,0 +1,90 @@
+[
+    {
+        "id" : 0,
+        "title" : "Man Shirts",
+        "quantity" : "38 ",
+        "image" : "/image/home-one/categories-section/man-shirt.png",
+        "imageAlt" : "Man Shirts",
+        "url" : "/"
+    },
+
+    {
+        "id" : 1,
+        "title" : "Woman Dress",
+        "quantity" : "45 ",
+        "image" : "/image/home-one/categories-section/woman-dress.png",
+        "imageAlt" : "Woman Dress",
+        "url" : "/"
+    },
+
+    {
+        "id" : 2,
+        "title" : "Man shoe",
+        "quantity" : "12 ",
+        "image" : "/image/home-one/categories-section/man-shoe.png",
+        "imageAlt" : "Man shoe",
+        "url" : "/"
+    },
+
+    {
+        "id" : 3,
+        "title" : "Woman Bag",
+        "quantity" : "38 ",
+        "image" : "/image/home-one/categories-section/woman-bag.png",
+        "imageAlt" : "Woman Bag",
+        "url" : "/"
+    },
+
+    {
+        "id" : 5,
+        "title" : "Breasted Suit",
+        "quantity" : "26 ",
+        "image" : "/image/home-one/categories-section/breasted-suit.png",
+        "imageAlt" : "Breasted Suit",
+        "url" : "/"
+    },
+    {
+        "id" : 6,
+        "title" : "Man Shirts",
+        "quantity" : "38 ",
+        "image" : "/image/home-one/categories-section/man-shirt.png",
+        "imageAlt" : "Man Shirts",
+        "url" : "/"
+    },
+
+    {
+        "id" : 7,
+        "title" : "Woman Dress",
+        "quantity" : "45 ",
+        "image" : "/image/home-one/categories-section/woman-dress.png",
+        "imageAlt" : "Woman Dress",
+        "url" : "/"
+    },
+
+    {
+        "id" : 8,
+        "title" : "Man shoe",
+        "quantity" : "12 ",
+        "image" : "/image/home-one/categories-section/man-shoe.png",
+        "imageAlt" : "Man shoe",
+        "url" : "/"
+    },
+
+    {
+        "id" : 9,
+        "title" : "Woman Bag",
+        "quantity" : "38 ",
+        "image" : "/image/home-one/categories-section/woman-bag.png",
+        "imageAlt" : "Woman Bag",
+        "url" : "/"
+    },
+
+    {
+        "id" : 10,
+        "title" : "Breasted Suit",
+        "quantity" : "26 ",
+        "image" : "/image/home-one/categories-section/breasted-suit.png",
+        "imageAlt" : "Breasted Suit",
+        "url" : "/"
+    }
+]

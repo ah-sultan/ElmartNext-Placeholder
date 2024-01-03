@@ -1,0 +1,225 @@
+[
+    {
+      "id": 0,
+      "title": "Home",
+      "url": "/",
+      "submenu": [
+        {
+          "id": 0,
+          "title": "Home one",
+          "url": "/"
+        },
+        {
+          "id": 1,
+          "title": "Home Two",
+          "url": "/home-two"
+        },
+        {
+          "id": 2,
+          "title": "Home Three",
+          "url": "/home-three"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "About",
+      "url": "/about"
+    },
+    {
+      "id": 2,
+      "title": "Shop",
+      "url": "/shop",
+      "notification" : {
+        "color" : "#FF497C",
+        "title" : "hot"
+      },
+
+      "submenu": [
+        {
+          "id": 0,
+          "title": "Shop Left Sidebar",
+          "url": "/shop"
+        },
+        {
+          "id": 1,
+          "title": "Shop Right Sidebar",
+          "url": "/shop-right-sidebar"
+        },
+        {
+          "id": 0,
+          "title": "Shop Banner Leftbar",
+          "url": "/shop-banner-left-sidebar"
+        },
+        {
+          "id": 2,
+          "title": "Shop Banner Rightbar",
+          "url": "/shop-banner-right-sidebar"
+        },
+        {
+          "id": 3,
+          "title": "Shop Product Style 2",
+          "url": "/shop-product-style-2"
+        },
+        {
+          "id": 4,
+          "title": "Shop Infinite Scroll",
+          "url": "/shop-infinite-scroll"
+        },
+        {
+          "id": 5,
+          "title": "Single Product Pages",
+          "url": "#",
+          "submenu": [
+            {
+              "id": 0,
+              "title": "Single Product",
+              "url": "/shop-details"
+            },
+            {
+              "id": 1,
+              "title": "Product Countdown",
+              "url": "/shop-details-countdown"
+            },
+            {
+              "id": 2,
+              "title": "Product Ask a Question",
+              "url": "/shop-details-ask-question"
+            },
+            {
+              "id": 3,
+              "title": "Product Size Guide",
+              "url": "/shop-details-size-guide"
+            },
+            {
+              "id": 4,
+              "title": "Product Color Compare",
+              "url": "/shop-details-color-compare"
+            },
+            {
+              "id": 5,
+              "title": "Product Image Slider",
+              "url": "/shop-details-product-image-slider"
+            },
+            {
+              "id": 6,
+              "title": "Product Sidebar",
+              "url": "/shop-details-sidebar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Blog",
+      "url": "/blog",
+      "submenu": [
+        {
+          "id": 0,
+          "title": "Blog",
+          "url": "/blog"
+        },
+        {
+          "id": 1,
+          "title": "Blog Post Right Sidebar",
+          "url": "/blog-post-right-sidebar"
+        },
+        {
+          "id": 2,
+          "title": "Blog Post Left Sidebar",
+          "url": "/blog-post-left-sidebar"
+        },
+        {
+          "id": 3,
+          "title": "Blog Post No Sidebar",
+          "url": "/blog-post-no-sidebar"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pages",
+      "url": "#",
+      "notification" : {
+        "color" : "#3577F0",
+        "title" : "new"
+      },
+      "submenu": [
+        {
+          "id": 0,
+          "title": "FAQs",
+          "url": "/faqs"
+        },
+        {
+          "id": 1,
+          "title": "More Pages",
+          "url": "/",
+          "submenu": [
+            {
+              "id": 2,
+              "title": "User Dashboard",
+              "url": "/dashboard/user"
+            },
+            {
+              "id": 3,
+              "title": "Wishlist",
+              "url": "/wishlist"
+            },
+            {
+              "id": 4,
+              "title": "Cart",
+              "url": "/cart"
+            },
+            {
+              "id": 5,
+              "title": "Checkout",
+              "url": "/checkout"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Seller",
+          "url": "/#",
+          "submenu": [
+            {
+              "id": 7,
+              "title": "Seller Dashboard",
+              "url": "/dashboard/seller"
+            },
+            {
+              "id": 8,
+              "title": "Vendor List",
+              "url": "/vendor-list"
+            },
+            {
+              "id": 9,
+              "title": "Vendor Left Sidebar",
+              "url": "/vendor-shop-left-Sidebar"
+            },
+            {
+              "id": 10,
+              "title": "Vendor Right Sidebar",
+              "url": "/vendor-shop-right-Sidebar"
+            },
+            {
+              "id": 11,
+              "title": "Vendor Banner Leftbar",
+              "url": "/vendor-shop-banner-1"
+            },
+            {
+              "id": 12,
+              "title": "Vendor Banner Rightbar",
+              "url": "/vendor-shop-banner-2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Contact",
+      "url": "/contact"
+    }
+  ]

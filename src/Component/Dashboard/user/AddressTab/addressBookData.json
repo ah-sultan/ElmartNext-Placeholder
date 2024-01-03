@@ -1,0 +1,38 @@
+[
+  {
+    "id" : 0,
+    "name": "Ronal M. Griffim",
+    "locationType": "Home",
+    "address": [
+      " 47 Farringdon St",
+      " Holborn, London, EC4A 4LL",
+      " United Kingdom"
+    ],
+    "phone": "+44 020 7353 2648",
+    "selected" : true
+  },
+  {
+    "id" : 1,
+    "name": "Ronal M. Griffim",
+    "locationType": "Office",
+    "address": [
+      "  12 Lyndhurst Rd",
+      "  Hampstead, London, NW3 5PQ",
+      " United Kingdom"
+    ],
+    "phone": " +44 020 7435 2202 ",
+    "selected" : false
+  },
+  {
+    "id" : 2,
+    "name": "Ronal M. Griffim",
+    "locationType": "Home2",
+    "address": [
+      "  84 Molesey Rd",
+      "  Hersham, Surrey, KT12 4RG",
+      " United Kingdom"
+    ],
+    "phone": " +44 01932 225531 ",
+    "selected" : false
+  }
+]

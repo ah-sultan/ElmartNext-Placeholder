@@ -1,0 +1,157 @@
+
+[
+    {
+      "name": "Deniella Rhodes",
+      "title": "CEO of Etoshi",
+      "image": "/image/about-page/team-member/1.png",
+      "socialLinks": [
+        {
+          "icon": "fa-brands fa-facebook-f",
+          "url": "#"
+        },
+        {
+          "icon": "fa-brands fa-linkedin-in",
+          "url": "#"
+        },
+        {
+          "icon": "fa-brands fa-x-twitter",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Davidthy Phillips",
+      "title": "Senior Developer",
+      "image": "/image/about-page/team-member/2.png",
+      "socialLinks": [
+        {
+          "icon": "fa-brands fa-facebook-f",
+          "url": "#"
+        },
+        {
+          "icon": "fa-brands fa-linkedin-in",
+          "url": "#"
+        },
+        {
+          "icon": "fa-brands fa-x-twitter",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Abubokkor A K",
+      "title": "UiUx Designer",
+      "image": "/image/about-page/team-member/3.png",
+      "socialLinks": [
+        {
+          "icon": "fa-brands fa-facebook-f",
+          "url": "#"
+        },
+        {
+          "icon": "fa-brands fa-linkedin-in",
+          "url": "#"
+        },
+        {
+          "icon": "fa-brands fa-x-twitter",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Wensleydale",
+      "title": "Marketing Expert",
+      "image": "/image/about-page/team-member/4.png",
+      "socialLinks": [
+        {
+          "icon": "fa-brands fa-facebook-f",
+          "url": "#"
+        },
+        {
+          "icon": "fa-brands fa-linkedin-in",
+          "url": "#"
+        },
+        {
+          "icon": "fa-brands fa-x-twitter",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Deniella Rhodes",
+      "title": "CEO of Etoshi",
+      "image": "/image/about-page/team-member/1.png",
+      "socialLinks": [
+        {
+          "icon": "fa-brands fa-facebook-f",
+          "url": "#"
+        },
+        {
+          "icon": "fa-brands fa-linkedin-in",
+          "url": "#"
+        },
+        {
+          "icon": "fa-brands fa-x-twitter",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Davidthy Phillips",
+      "title": "Senior Developer",
+      "image": "/image/about-page/team-member/2.png",
+      "socialLinks": [
+        {
+          "icon": "fa-brands fa-facebook-f",
+          "url": "#"
+        },
+        {
+          "icon": "fa-brands fa-linkedin-in",
+          "url": "#"
+        },
+        {
+          "icon": "fa-brands fa-x-twitter",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Abubokkor A K",
+      "title": "UiUx Designer",
+      "image": "/image/about-page/team-member/3.png",
+      "socialLinks": [
+        {
+          "icon": "fa-brands fa-facebook-f",
+          "url": "#"
+        },
+        {
+          "icon": "fa-brands fa-linkedin-in",
+          "url": "#"
+        },
+        {
+          "icon": "fa-brands fa-x-twitter",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Wensleydale",
+      "title": "Marketing Expert",
+      "image": "/image/about-page/team-member/4.png",
+      "socialLinks": [
+        {
+          "icon": "fa-brands fa-facebook-f",
+          "url": "#"
+        },
+        {
+          "icon": "fa-brands fa-linkedin-in",
+          "url": "#"
+        },
+        {
+          "icon": "fa-brands fa-x-twitter",
+          "url": "#"
+        }
+      ]
+    }
+  ] 
+  
+  

@@ -1,0 +1,26 @@
+[
+    {
+      "image": "/image/home-one/shop-section/summer-tank-top-vest-fashionable.png",
+      "title": "Summer Tank Top Vest fashionable",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam eligendi numquam modi at quos dolores placeat ullam natus minima soluta.",
+      "discountPrice": 320,
+      "price": 400
+    },
+    {
+      "image": "/image/home-one/shop-section/short-pink-color-woman-blazer.png",
+      "title": "Short Pink color woman Blazer",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam eligendi numquam modi at quos dolores placeat ullam natus minima soluta.",
+      "discountPrice": 90,
+      "price": 150
+    },
+    {
+      "image": "/image/home-one/shop-section/fashion-woman-top.png",
+      "title": "Fashion woman Top",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam eligendi numquam modi at quos dolores placeat ullam natus minima soluta.",
+      "discountPrice": 120,
+      "price": 180
+    }
+  ]

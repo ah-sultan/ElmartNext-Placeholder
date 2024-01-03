@@ -1,0 +1,184 @@
+[
+    {
+        "id": 0,
+        "title": "luxury T-shirt For men",
+        "image": "/image/home-one/shop-section/fashion-woman-top.png",
+        "hoverImage": "/image/home-one/shop-section/fashion-woman-top-1.png",
+        "rating": {
+            "rate": 5,
+            "reviews": 45
+        },
+        "price": 160,
+        "discountPrice": false,
+        "colors": [
+            "#EE52F1",
+            "#49181E",
+            "#FEBF65"
+        ],
+        "discountTag": false,
+        "newTag": false,
+        "filter": [
+            "sale"
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Convert for man stretching shoe",
+        "image": "/image/home-one/shop-section/convert-for-man-stretching-shoe.png",
+        "hoverImage": "/image/home-one/shop-section/convert-for-man-stretching-shoe-1.png",
+        "rating": {
+            "rate": 5,
+            "reviews": 45
+        },
+        "price": 400,
+        "discountPrice": 320,
+        "colors": [
+            "#EE52F1",
+            "#49181E",
+            "#FEBF65"
+        ],
+        "reviews": "45",
+        "discountTag": false,
+        "newTag": true,
+        "filter": [
+            "new"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Men Cotton Sleeves Shirts",
+        "image": "/image/home-one/shop-section/men-cotton-sleeves-shirt.png",
+        "hoverImage": "/image/home-one/shop-section/men-cotton-sleeves-shirt-1.png",
+        "rating": {
+            "rate": 5,
+            "reviews": 45
+        },
+        "price": 150,
+        "discountPrice": false,
+        "colors": [
+            "#EE52F1",
+            "#49181E",
+            "#FEBF65"
+        ],
+        "reviews": "45",
+        "discountTag": "45",
+        "newTag": false,
+        "filter": [
+            "new"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "luxury Woman Black Hand Bag",
+        "image": "/image/home-one/shop-section/luxury-woman-black-hand-bag.png",
+        "hoverImage": "/image/home-one/shop-section/luxury-woman-black-hand-bag-1.png",
+        "rating": {
+            "rate": 5,
+            "reviews": 45
+        },
+        "price": 220,
+        "discountPrice": 180,
+        "colors": [
+            "#EE52F1",
+            "#49181E",
+            "#FEBF65"
+        ],
+        "reviews": "45",
+        "discountTag": false,
+        "newTag": false,
+        "filter": [
+            "sale"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Summer Tank Top Vest fashionable",
+        "image": "/image/home-one/shop-section/summer-tank-top-vest-fashionable.png",
+        "hoverImage": "/image/home-one/shop-section/summer-tank-top-vest-fashionable-1.png",
+        "rating": {
+            "rate": 5,
+            "reviews": 45
+        },
+        "price": 160,
+        "discountPrice": false,
+        "colors": [
+            "#EE52F1",
+            "#49181E",
+            "#FEBF65"
+        ],
+        "discountTag": false,
+        "newTag": false,
+        "filter": [
+            "new",
+            "sale"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Short Pink color woman Blazer",
+        "image": "/image/home-one/shop-section/short-pink-color-woman-blazer.png",
+        "hoverImage": "/image/home-one/shop-section/short-pink-color-woman-blazer-1.png",
+        "rating": {
+            "rate": 5,
+            "reviews": 45
+        },
+        "price": 400,
+        "discountPrice": 320,
+        "colors": [
+            "#EE52F1",
+            "#49181E",
+            "#FEBF65"
+        ],
+        "reviews": "45",
+        "discountTag": false,
+        "newTag": true,
+        "filter": [
+            "sale"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Men's Rose Plus white Shirt",
+        "image": "/image/home-one/shop-section/mens-rose-plus-white-shirt.png",
+        "hoverImage": "/image/home-one/shop-section/mens-rose-plus-white-shirt-1.png",
+        "rating": {
+            "rate": 5,
+            "reviews": 45
+        },
+        "price": 150,
+        "discountPrice": false,
+        "colors": [
+            "#EE52F1",
+            "#49181E",
+            "#FEBF65"
+        ],
+        "discountTag": "45",
+        "newTag": false,
+        "filter": [
+            "new",
+            "sale"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Suit double breasted Blazer",
+        "image": "/image/home-one/shop-section/suit-double-breasted-blazer.png",
+        "hoverImage": "/image/home-one/shop-section/suit-double-breasted-blazer-1.png",
+        "rating": {
+            "rate": 5,
+            "reviews": 45
+        },
+        "price": 220,
+        "discountPrice": 180,
+        "colors": [
+            "#EE52F1",
+            "#49181E",
+            "#FEBF65"
+        ],
+        "discountTag": false,
+        "newTag": false,
+        "filter": [
+            "sale"
+        ]
+    }
+]

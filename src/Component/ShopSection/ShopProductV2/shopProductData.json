@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Fashion woman Top",
+    "image": "/image/home-one/shop-section/fashion-woman-top.png",
+    "hoverImage": "/image/home-one/shop-section/fashion-woman-top-1.png",
+    "price": 180,
+    "discountPrice": false,
+    "newTag": true,
+    "colors": ["#FF497C", "#FEC7B3", "#3B3C3F"],
+    "sizes": ["M", "L", "XL", "XXL"],
+    "rating": {
+      "rate": 5,
+      "reviews": 42
+    }
+  },
+  {
+    "title": "Convert for man stretching shoe",
+    "image": "/image/home-one/shop-section/convert-for-man-stretching-shoe.png",
+    "hoverImage": "/image/home-one/shop-section/convert-for-man-stretching-shoe-1.png",
+    "price": 205,
+    "discountPrice": 185,
+    "colors": ["#C16438", "#49181E", "#3577F0"],
+    "sizes": ["M", "L", "XL", "XXL"],
+    "rating": {
+      "rate": 5,
+      "reviews": 50
+    }
+  },
+  {
+    "title": "Men Cotton Sleeves Shirts",
+    "image": "/image/home-one/shop-section/men-cotton-sleeves-shirt.png",
+    "hoverImage": "/image/home-one/shop-section/men-cotton-sleeves-shirt-1.png",
+    "price": 175,
+    "discountPrice": false,
+    "colors": ["#210EFF", "#7D0225", "#23232F"],
+    "sizes": ["M", "L", "XL", "XXL"],
+    "rating": {
+      "rate": 5,
+      "reviews": 22
+    }
+  },
+  {
+    "title": "Luxury Woman Black Hand Bag",
+    "image": "/image/home-one/shop-section/luxury-woman-black-hand-bag.png",
+    "hoverImage": "/image/home-one/shop-section/luxury-woman-black-hand-bag-1.png",
+    "discountTag": "25",
+    "price": 220,
+    "discountPrice": 180,
+    "colors": ["#0B8700", "#000", "#553301"],
+    "sizes": ["M", "L", "XL", "XXL"],
+    "rating": {
+      "rate": 5,
+      "reviews": 33
+    }
+  },
+  {
+    "title": "Summer Tank Top Vest fashionable",
+    "image": "/image/home-one/shop-section/summer-tank-top-vest-fashionable.png",
+    "hoverImage": "/image/home-one/shop-section/summer-tank-top-vest-fashionable-1.png",
+    "price": 400,
+    "discountPrice": 320,
+    "colors": ["#342103", "#000", "#3577F0"],
+    "sizes": ["M", "L", "XL", "XXL"],
+    "rating": {
+      "rate": 5,
+      "reviews": 21
+    }
+  },
+  {
+    "title": "Short Pink color woman Blazer",
+    "image": "/image/home-one/shop-section/short-pink-color-woman-blazer.png",
+    "hoverImage": "/image/home-one/shop-section/short-pink-color-woman-blazer-1.png",
+    "newTag": true,
+    "price": 150,
+    "discountPrice": false,
+    "colors": ["#EE52F1", "#E4B3B9", "#775EA0"],
+    "sizes": ["M", "L", "XL", "XXL"],
+    "rating": {
+      "rate": 5,
+      "reviews": 22
+    }
+  },
+  {
+    "title": "Men's Rose Plus white Shirt",
+    "image": "/image/home-one/shop-section/mens-rose-plus-white-shirt.png",
+    "hoverImage": "/image/home-one/shop-section/mens-rose-plus-white-shirt-1.png",
+    "price": 220,
+    "discountTag": "30",
+    "discountPrice": 180,
+    "colors": ["#EBA5B3", "#C9C8DA", "#85DCFA"],
+    "sizes": ["M", "L", "XL", "XXL"],
+    "rating": {
+      "rate": 5,
+      "reviews": 33
+    }
+  },
+  {
+    "title": "Suit double breasted Blazer",
+    "image": "/image/home-one/shop-section/suit-double-breasted-blazer.png",
+    "hoverImage": "/image/home-one/shop-section/suit-double-breasted-blazer-1.png",
+    "price": 150,
+    "discountPrice": false,
+    "colors": ["#0D263A", "#49181E", "#362301"],
+    "sizes": ["M", "L", "XL", "XXL"],
+    "rating": {
+      "rate": 5,
+      "reviews": 22
+    }
+  },
+  {
+    "title": "Suit double breasted Blazer",
+    "image": "/image/home-one/feature-product/silver-silk-shirt-tie-man.png",
+    "hoverImage": "/image/home-one/feature-product/silver-silk-shirt-tie-man-1.png",
+    "price": 150,
+    "discountPrice": false,
+    "colors": ["#EE52F1", "#E4B3B9", "#775EA0"],
+    "sizes": ["M", "L", "XL", "XXL"],
+    "rating": {
+      "rate": 5,
+      "reviews": 22
+    }
+  }
+]

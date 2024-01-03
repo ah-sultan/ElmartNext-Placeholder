@@ -1,0 +1,52 @@
+{
+    "recentOrders": [
+        {
+            "id": "1115",
+            "title": "Fashion Woman Top",
+            "status": "Delivered"
+        },
+        {
+            "id": "2415",
+            "title": "Women Leather Handbag",
+            "status": "Canceled"
+        },
+        {
+            "id": "2675",
+            "title": "Embroidered Square Neck Sheath",
+            "status": "on-hold"
+        },
+        {
+            "id": "8736",
+            "title": "Summer Tank Top Vest",
+            "status": "Pending"
+        },
+        {
+            "id": "9012",
+            "title": "Women Leather Handbag",
+            "status": "Pending"
+        }
+    ],
+    "trendProducts" : [
+        {
+            "id" : 0,
+            "title" : "Fashion Woman Top",
+            "price" : 120,
+            "totalSales" : 115,
+            "image" : "/image/wishlist-page/fashion-woman-top.png"
+        },
+        {
+            "id" : 1,
+            "title" : "Women Leather Handbag",
+            "price" : 160,
+            "totalSales" : 421,
+            "image" : "/image/wishlist-page/women-leather-bag.png"
+        },
+        {
+            "id" : 2,
+            "title" : "Summer Tank Top Vest",
+            "price" : 120,
+            "totalSales" : 25,
+            "image" : "/image/wishlist-page/summer-tank-top.png"
+        }
+    ]
+}

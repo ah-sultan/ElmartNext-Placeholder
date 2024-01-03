@@ -1,0 +1,62 @@
+[
+    {
+        "id": "womensbag",
+        "name": "Women's Bag",
+        "count": 19
+    },
+    {
+        "id": "mensaccessories",
+        "name": "Men's Accessories",
+        "count": 10
+    },
+    {
+        "id": "schoolbag",
+        "name": "School Bag",
+        "count": 41
+    },
+    {
+        "id": "cap",
+        "name": "Cap",
+        "count": 32
+    },
+    {
+        "id": "boots",
+        "name": "Boots",
+        "count": 45
+    },
+    {
+        "id": "boysdress",
+        "name": "Boy's Dress",
+        "count": 20
+    },
+    {
+        "id": "womensfashion",
+        "name": "Women's Fashion",
+        "count": 35
+    },
+    {
+        "id": "fashionaccessories",
+        "name": "Fashion Accessories",
+        "count": 25
+    },
+    {
+        "id": "leatherbags",
+        "name": "Leather Bags",
+        "count": 22
+    },
+    {
+        "id": "giftforhim",
+        "name": "Gift for Him",
+        "count": 11
+    },
+    {
+        "id": "babyitems",
+        "name": "Baby Items",
+        "count": 31
+    },
+    {
+        "id": "makeupcorner",
+        "name": "Makeup Corner",
+        "count": 8
+    }
+]

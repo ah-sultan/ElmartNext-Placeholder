@@ -1,0 +1,60 @@
+[
+    {
+        "id" : 0,
+        "subHeading" : "In This Season, Find The Best",
+        "heading" : "Exclusive Collection for Everyone",
+        "description" : "Here's a voice that keeps on calling me. down the road, that's where i'll always be.",
+       
+        "btnUrl" : "/",
+        "heroImage" : "/image/home-two/hero-section/hero-img-1.png",
+        "heroImageAlt" : "Hero Image",
+        "rating" : 5,
+        "heroReviewImages" : [
+            {"id" : 0, "image" : "/image/home-two/hero-section/hero-client-1.png", "alt" : "client-1" },
+            {"id" : 1, "image" : "/image/home-two/hero-section/hero-client-2.png", "alt" : "client-2" },
+            {"id" : 2, "image" : "/image/home-two/hero-section/hero-client-3.png", "alt" : "client-3" },
+            {"id" : 3, "image" : "/image/home-two/hero-section/hero-client-4.png", "alt" : "client-4" },
+            {"id" : 4, "image" : "/image/home-two/hero-section/hero-client-5.png", "alt" : "client-5" },
+            {"id" : 5, "image" : "/image/home-two/hero-section/hero-client-6.png", "alt" : "client-6" }
+        ]
+    },
+    {
+        "id" : 1,
+        "subHeading" : "In This Season, Find The Best",
+        "heading" : "Exclusive Collection for Everyone",
+        "description" : "Here's a voice that keeps on calling me. down the road, that's where i'll always be.",
+       
+        "btnUrl" : "/",
+        "heroImage" : "/image/home-two/hero-section/hero-img-1.png",
+        "heroImageAlt" : "Hero Image",
+        "rating" : 5,
+        "heroReviewImages" : [
+            {"id" : 0, "image" : "/image/home-two/hero-section/hero-client-1.png", "alt" : "client-1" },
+            {"id" : 1, "image" : "/image/home-two/hero-section/hero-client-2.png", "alt" : "client-2" },
+            {"id" : 2, "image" : "/image/home-two/hero-section/hero-client-3.png", "alt" : "client-3" },
+            {"id" : 3, "image" : "/image/home-two/hero-section/hero-client-4.png", "alt" : "client-4" },
+            {"id" : 4, "image" : "/image/home-two/hero-section/hero-client-5.png", "alt" : "client-5" },
+            {"id" : 5, "image" : "/image/home-two/hero-section/hero-client-6.png", "alt" : "client-6" }
+        ]
+    },
+    {
+        "id" : 2,
+        "subHeading" : "In This Season, Find The Best",
+        "heading" : "Exclusive Collection for Everyone",
+        "description" : "Here's a voice that keeps on calling me. down the road, that's where i'll always be.",
+       
+        "btnUrl" : "/",
+        "heroImage" : "/image/home-two/hero-section/hero-img-1.png",
+        "heroImageAlt" : "Hero Image",
+        "rating" : 5,
+        "reviews" : "150+",
+        "heroReviewImages" : [
+            {"id" : 0, "image" : "/image/home-two/hero-section/hero-client-1.png", "alt" : "client-1" },
+            {"id" : 1, "image" : "/image/home-two/hero-section/hero-client-2.png", "alt" : "client-2" },
+            {"id" : 2, "image" : "/image/home-two/hero-section/hero-client-3.png", "alt" : "client-3" },
+            {"id" : 3, "image" : "/image/home-two/hero-section/hero-client-4.png", "alt" : "client-4" },
+            {"id" : 4, "image" : "/image/home-two/hero-section/hero-client-5.png", "alt" : "client-5" },
+            {"id" : 5, "image" : "/image/home-two/hero-section/hero-client-6.png", "alt" : "client-6" }
+        ]
+    }
+]

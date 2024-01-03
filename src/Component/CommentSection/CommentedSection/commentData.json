@@ -1,0 +1,37 @@
+[
+    {
+        "author": {
+            "name": "John Doe",
+            "image": "/image/shop-page/shop-details/authors/author1.png"
+        },
+        "rating": 5,
+        "date": "Mar 28, 2023",
+        "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsium has been the industry's standards dummy as text as when an unknown printer took asi galley of type and scrambled it to make a type specimen book. ",
+        "reply": {
+            "author": {
+                "name": "John Doe",
+                "image": "/image/shop-page/shop-details/authors/author2.png"
+            },
+            "date": "Mar 28, 2023",
+            "quote": "Lorem Ipsum is simply dumm text of the printing and typesetting industry."
+        }
+    },
+    {
+        "author": {
+            "name": "Jenshon Jhon",
+            "image": "/image/shop-page/shop-details/authors/author3.png"
+        },
+        "rating": 5,
+        "date": "Mar 30, 2023",
+        "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsium has been the industry's standards dummy as text as when an unknown printer took asi galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+        "author": {
+            "name": "Jhonshan Hal",
+            "image": "/image/shop-page/shop-details/authors/author4.png"
+        },
+        "rating": 5,
+        "date": "Mar 31, 2023",
+        "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsium has been the industry's standards dummy as text as when an unknown printer took asi galley of type and scrambled it to make a type specimen book. "
+    }
+]

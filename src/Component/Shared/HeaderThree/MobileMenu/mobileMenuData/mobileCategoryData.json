@@ -1,0 +1,101 @@
+[
+  {
+    "id": 0,
+    "title": "Category one",
+    "icon": "fa-solid fa-road",
+    "url": "/"
+  },
+  {
+    "id": 1,
+    "title": "Category Two",
+    "icon": "fa-solid fa-paper-plane",
+    "url": "/"
+  },
+  {
+    "id": 2,
+    "title": "Category",
+    "icon": "fa-solid fa-paper-plane",
+    "url": "/",
+    "submenu": [
+      {
+        "id": 0,
+        "title": "Category - 1",
+        "url": "/",
+        "submenu": [
+          {
+            "id": 0,
+            "title": "Sub Category 1",
+            "url": "/"
+          },
+          {
+            "id": 1,
+            "title": "Sub Category 2",
+            "url": "/"
+          },
+          {
+            "id": 2,
+            "title": "Sub Category 3",
+            "url": "/"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "title": "Category - 2",
+        "url": "/"
+      },
+      {
+        "id": 0,
+        "title": "Category - 3",
+        "url": "/"
+      },
+      {
+        "id": 0,
+        "title": "Category - 4",
+        "url": "/"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Elements",
+    "icon": "fa-solid  fa-motorcycle",
+    "url": "#",
+    "submenu": [
+      {
+        "id": 0,
+        "title": "Element 1",
+        "url": "/"
+      },
+      {
+        "id": 1,
+        "title": "Element 2",
+        "url": "/"
+      },
+      {
+        "id": 2,
+        "title": "Element 3",
+        "url": "/"
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "title": "Category Three",
+    "icon": "fa-solid  fa-motorcycle",
+    "url": "/"
+  },
+  {
+    "id": 4,
+    "title": "Category Four",
+    "icon": "fa-solid  fa-motorcycle",
+    "url": "/"
+  },
+  {
+    "id": 5,
+    "title": "Category Five",
+    "icon": "fa-solid  fa-motorcycle",
+    "url": "/"
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "icon": "fa-solid fa-house",
+        "title": "Home",
+        "eventKey" : "home"
+    },
+    {
+        "id": 1,
+        "icon": "fa-solid fa-bag-shopping",
+        "title": "Orders",
+        "eventKey" : "orders"
+    },
+    {
+        "id": 2,
+        "icon": "fa-solid fa-heart",
+        "title": "Wishlist",
+        "eventKey" : "wishlist"
+    },
+    {
+        "id": 3,
+        "icon": "fa-solid fa-credit-card",
+        "title": "Saved cards",
+        "eventKey" : "savedCards"
+    },
+    {
+        "id": 4,
+        "icon": "fa-solid fa-location-dot",
+        "title": "Address",
+        "eventKey" : "address"
+    },
+    {
+        "id": 5,
+        "icon": "fa-solid fa-user",
+        "title": "Profile",
+        "eventKey" : "profile"
+    },
+    {
+        "id": 6,
+        "icon": "fa-solid fa-shield",
+        "title": "Security",
+        "eventKey" : "security"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "icon": "fa-solid fa-house",
+        "title": "Home",
+        "eventKey": "home"
+    },
+    {
+        "id": 1,
+        "icon": "fa-solid fa-box",
+        "title": "Products",
+        "eventKey": "products"
+    },
+    {
+        "id": 2,
+        "icon": "fa-solid fa-bag-shopping",
+        "title": "Orders",
+        "eventKey": "orders"
+    },
+    {
+        "id": 3,
+        "icon": "fa-solid fa-user",
+        "title": "Profile",
+        "eventKey": "profile"
+    },
+    {
+        "id": 4,
+        "icon": "fa-solid fa-gear",
+        "title": "Settings",
+        "eventKey": "settings"
+    }
+]

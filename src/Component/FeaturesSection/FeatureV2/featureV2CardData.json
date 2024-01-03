@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "icon": "/image/home-two/features-section/icon1.png",
+    "title": "Free Shipping",
+    "text": "$39 per order"
+  },
+  {
+    "id": 1,
+    "icon": "/image/home-two/features-section/icon2.png",
+    "title": "14-Day Return",
+    "text": "Shop with confidence"
+  },
+  {
+    "id": 2,
+    "icon": "/image/home-two/features-section/icon3.png",
+    "title": "24/7 Support",
+    "text": "Delivered to your door"
+  }
+]

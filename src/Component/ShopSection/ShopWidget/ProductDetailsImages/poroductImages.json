@@ -1,0 +1,26 @@
+[
+    {
+      "id": "red-dress",
+      "name": "Red Dress",
+      "image": "/image/shop-page/shop-details/red-dress.png",
+      "icon": "/image/shop-page/shop-details/icon1.png"
+    },
+    {
+      "id": "blue-green-dress",
+      "name": "Blue Green",
+      "image": "/image/shop-page/shop-details/greenish-bluey-grey-dress.png",
+      "icon": "/image/shop-page/shop-details/icon2.png"
+    },
+    {
+      "id": "red-dress-2",
+      "name": "Red Dress V2",
+      "image": "/image/shop-page/shop-details/red-dress-v2.png",
+      "icon": "/image/shop-page/shop-details/icon3.png"
+    },
+    {
+      "id": "blue-purple",
+      "name": "Blue Purple Dress",
+      "image": "/image/shop-page/shop-details/bluish-purple-dress.png",
+      "icon": "/image/shop-page/shop-details/icon4.png"
+    }
+  ]

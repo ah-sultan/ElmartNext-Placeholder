@@ -1,0 +1,31 @@
+[
+    {
+      "image": "/image/wishlist-page/fashion-woman-top.png",
+      "title": "Fashion Woman Top",
+      "size": "X",
+      "price": "120",
+      "total": "120"
+    },
+    {
+      "image": "/image/wishlist-page/double-breasted-suit.png",
+      "title": "Double Breasted Suit",
+      "size": "XL",
+      "price": "140",
+      "total": "140"
+    },
+    {
+      "image": "/image/wishlist-page/women-leather-bag.png",
+      "title": "Women Leather Handbag",
+      "size": "XL",
+      "price": "160",
+      "total": "160"
+    },
+    {
+      "image": "/image/wishlist-page/men-tshirt-black-tee.png",
+      "title": "Men T-shirt Block Tee",
+      "size": "M",
+      "price": "110",
+      "total": "110"
+    }
+  ]
+  

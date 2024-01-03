@@ -1,0 +1,44 @@
+[
+    {
+        "orderNumber": "1",
+        "image" : "/image/home-one/shop-section/luxury-woman-black-hand-bag-1.png",
+        "orderStatus": "delivered",
+        "title": "Luxury Woman Black Hand Bag",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, excepturi odit! Quaerat totam et minima inventore!",
+        "price": "180",
+        "rating": {
+            "rate": 5,
+            "reviews": 33
+        },
+        "size": "XL",
+        "quantity": 1
+    },
+    {
+        "orderNumber": "2",
+        "image" : "/image/home-one/shop-section/fashion-woman-top-1.png",
+       
+        "orderStatus": "pending",
+        "title": "Fashion Woman Top",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, excepturi odit! Quaerat totam et minima inventore!",
+        "price": "180",
+        "rating": {
+            "rate": 5,
+            "reviews": 33
+        },
+        "size": "XL",
+        "quantity": 1
+    },
+    {
+        "orderNumber": "3",
+        "image" : "/image/home-one/shop-section/summer-tank-top-vest-fashionable.png",
+        "orderStatus": "canceled",
+        "title": "Summer Tank Top Vest Fashionable",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, excepturi odit! Quaerat totam et minima inventore!",
+        "rating": {
+            "rate": 5,
+            "reviews": 33
+        },
+        "size": "XL",
+        "quantity": 1
+    }
+]

@@ -1,0 +1,55 @@
+{
+    "activity": [
+        {
+            "id": 0,
+            "title": "Total Order",
+            "count": 3511,
+            "icon": "fa-solid fa-boxes-stacked"
+        },
+        {
+            "id": 1,
+            "title": "Total Pending Order",
+            "count": 302,
+            "icon": "fa-solid fa-boxes"
+        },
+        {
+            "id": 2,
+            "title": "Total Wishlist",
+            "count": 53542,
+            "icon": "fa-solid fa-scroll"
+        }
+    ],
+    "profile": [
+        {
+            "id": 0,
+            "title": "Contact Information",
+            "description": [
+                "Ronal M. Griffim",
+                "user.example@gmail.com"
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Newsletter Status",
+            "description": [
+                "You are currently subscribed to our newsletter"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Billing Address",
+            "description": [
+                "Default Billing Address",
+                "You have not set a default billing address."
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Shipping Address",
+            "description": [
+                "Default Shipping Address",
+                "You have not set a default shipping address."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+
+[
+    {
+      "id": "nike",
+      "name": "Nike",
+      "value": "nike"
+    },
+    {
+      "id": "zara",
+      "name": "Zara",
+      "value": "zara"
+    },
+    {
+      "id": "denim",
+      "name": "Denim",
+      "value": "denim"
+    },
+    {
+      "id": "madame",
+      "name": "Madame",
+      "value": "madame"
+    },
+    {
+      "id": "arong",
+      "name": "Arong",
+      "value": "arong"
+    },
+    {
+      "id": "maxmall",
+      "name": "Max mall",
+      "value": "maxmall"
+    },
+    {
+      "id": "sara",
+      "name": "Sara",
+      "value": "sara"
+    },
+    {
+      "id": "hanger",
+      "name": "Hanger",
+      "value": "hanger"
+    }
+  ] 
+  
